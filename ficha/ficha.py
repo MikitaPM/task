@@ -1,1 +1,2 @@
 print('Ficha')
+print('f')
